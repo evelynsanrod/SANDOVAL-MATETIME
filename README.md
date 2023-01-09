@@ -35,6 +35,6 @@ Bebas Neue
 
 ![Logotipo_Mesa de trabajo 1 copia](https://user-images.githubusercontent.com/118061710/207105489-6a21e445-f410-4df0-903b-e1dcd54a9466.JPG)
 
-##LINK FIGMA
+## LINK FIGMA
 
 https://www.figma.com/file/8v3CfuyLOi62Mzda0OLi8K/BOCETOS-PARA-ECOMMERCE-(Copy)?node-id=0%3A1&t=0cvvJn2MKvvIDCDF-1
