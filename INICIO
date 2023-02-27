@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INICIOSESION</title>
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="preconnect" href="link rel= preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <img src="ILIUSTRACION.PNG" alt="LOGOMATE" width="100" height="100" />
+        <h1 class= "nombre-web" > MATETIME </h1>
+        <button> <img src="Carrito.png" width="40px" height="14px"> </button>
+    </header>
+
+
+    <form class="Formulario"></form>
+    <h4>Inicio sesión</h4>
+
+    <label for="email">Correo electronico</label>
+    <input
+    class="controls"
+    type="email"
+    placeholder="Ingrese su e-mail"
+    name="correo electronico"
+    id="e-mail"/>
+
+    <label for="password">Contraseña</label>
+    <input
+    class="controls"
+    type="password"
+    placeholder="Contraseña"
+    name="Password"
+    id="password"/>
+
+    <button>Ingresar</button>
+
+    <footer>
+        <img src="ILIUSTRACION.PNG" alt="LOGOMATE2" width="50" height="50" />
+        <div class="DESPACHOS"> Despachos a todo el mundo</div>
+        <div class="CAMBIOS"> Politicas de cambio </div>
+        <div class="PREGUNTAS"> Preguntas frecuentes </div>
+        <div class="TIENDAS"> Tiendas </div>
+        <div class="COPYRIGTH"> Copyrigth 2022</div>
+    </footer>
+
+
+</body>
+</html>
